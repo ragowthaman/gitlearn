@@ -8,5 +8,4 @@ First day working on git is good.
 I like GitHub
 
 I want to learn more MOREEEEEEEEEEEEEEEEEEEEEEEEEEEE
-
-Checking for git pull
+Checking for pull.
