@@ -12,3 +12,5 @@ I want to learn more MOREEEEEEEEEEEEEEEEEEEEEEEEEEEE
 
 Checking for pull.
 working good
+
+pushing without pulling
